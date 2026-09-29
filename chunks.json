@@ -1,0 +1,57 @@
+[
+  {
+    "source": "uzair_profile.txt",
+    "chunk_id": 0,
+    "text": "PERSON: Uzair Bin Ahmad ROLE: Frontend Developer | Software Engineering Student LOCATION: Lahore, Pakistan PROFILE Uzair Bin Ahmad is a sixth-semester BS Software Engineering student with hands-on frontend development experience through self-directed learning and project-based practice. He has a strong foundation in HTML, CSS, JavaScript, React, C++, data structures, algorithms, SQL, and Python, with a basic understanding of Django. He is currently studying Machine Learning, Natural Language Processing, and Information Retrieval, and is interested in building practical, responsive web applications. TECHNICAL SKILLS Frontend: HTML5, CSS3, JavaScript, React Programming: C++, Python,"
+  },
+  {
+    "source": "uzair_profile.txt",
+    "chunk_id": 1,
+    "text": "tical, responsive web applications. TECHNICAL SKILLS Frontend: HTML5, CSS3, JavaScript, React Programming: C++, Python, JavaScript Backend and Database: Django (basic understanding), SQL, database fundamentals Core Computer Science: OOP, Data Structures and Algorithms, Analysis of Algorithms, Programming Fundamentals PROJECTS Foody Zone | React Built a React-based food-themed interface using reusable components and a clean, user-focused page structure. Dice Game | React Created an interactive dice game to practice React components, state handling, events, and dynamic UI updates. Brand Page and Contact Us | React Developed responsive React pages while practicing component-based design,"
+  },
+  {
+    "source": "uzair_profile.txt",
+    "chunk_id": 2,
+    "text": "UI updates. Brand Page and Contact Us | React Developed responsive React pages while practicing component-based design, layout structure, and reusable UI patterns. Dino Game and Snake Game | HTML, CSS, JavaScript Built browser-based games to strengthen JavaScript logic, DOM interaction, keyboard events, and game-flow fundamentals. Spotify UI and Weather Project | HTML, CSS, JavaScript Created web interfaces to improve responsive styling, JavaScript interaction, and practical frontend development skills. EDUCATION Bachelor of Science in Software Engineering | 6th Semester University of Management and Technology (UMT), Lahore Technical Electives: Machine Learning, Natural Language Processing,"
+  },
+  {
+    "source": "uzair_profile.txt",
+    "chunk_id": 3,
+    "text": "iversity of Management and Technology (UMT), Lahore Technical Electives: Machine Learning, Natural Language Processing, Information Retrieval Relevant Coursework: Programming Fundamentals, Object-Oriented Programming, Data Structures and Algorithms, Analysis of Algorithms, Database Systems, SQL LEARNING AND STRENGTHS Uzair is a self-directed learner with practical project experience in frontend development using online learning and hands-on coding practice. He is comfortable translating basic requirements into responsive web pages and interactive React components. He has a strong academic programming foundation in C++ with a growing interest in AI, ML, NLP, and full-stack development. He is"
+  },
+  {
+    "source": "uzair_profile.txt",
+    "chunk_id": 4,
+    "text": "strong academic programming foundation in C++ with a growing interest in AI, ML, NLP, and full-stack development. He is open to Software Engineering and Frontend Development internships and junior opportunities."
+  },
+  {
+    "source": "zain_profile.txt",
+    "chunk_id": 0,
+    "text": "PERSON: Muhammad Zain ROLE: Frontend Engineer & Full-Stack Developer LOCATION: Lahore, Pakistan PROFILE Muhammad Zain is a frontend-focused Full-Stack Developer and final-semester BS Software Engineering student with experience building production-style web and mobile applications, admin dashboards, SEO-optimized websites, AI-powered tools, and real-time developer-focused platforms. He is strong in React, React Native, Next.js, TypeScript, Tailwind CSS, Firebase, FastAPI, and modern UI engineering, with a focus on clean user experience, performance, accessibility, and scalable architecture. AREAS OF EXPERTISE React, React Native, Next.js, TypeScript, Tailwind CSS, Firebase, FastAPI, REST"
+  },
+  {
+    "source": "zain_profile.txt",
+    "chunk_id": 1,
+    "text": "alable architecture. AREAS OF EXPERTISE React, React Native, Next.js, TypeScript, Tailwind CSS, Firebase, FastAPI, REST APIs, SEO Engineering, Admin Dashboards, UI, UI Components, Data Visualization, AI Applications, Real-Time Systems, Frontend Architecture, Web Performance, Testing, Developer Tools. PROFESSIONAL EXPERIENCE Frontend Developer | CodeWingz | Lahore, Pakistan | Jan 2026 - Present Develops responsive React and Next.js interfaces for modern production web products. Completed a technical SEO audit of codewingz.com using Katana, httpx, and curl across thousands of internal URLs. Documented high-priority improvements for indexability, metadata, broken links, schema, route exposure,"
+  },
+  {
+    "source": "zain_profile.txt",
+    "chunk_id": 2,
+    "text": "internal URLs. Documented high-priority improvements for indexability, metadata, broken links, schema, route exposure, and security headers. PROJECTS AI-Based Expense Tracker System | React Native, Firebase, Real-Time Sync Built a real-time, cross-platform mobile app in React Native for tracking, categorizing, and visualizing personal expenses. Integrated Firebase Realtime Database for secure, real-time data sync across devices with offline support. Designed a complete expense management flow covering budgets, categories, and spending analytics dashboards. Restaurant Delivery Platform | React Native, Firebase, Real-Time Tracking Built a real-time restaurant delivery platform with separate"
+  },
+  {
+    "source": "zain_profile.txt",
+    "chunk_id": 3,
+    "text": "very Platform | React Native, Firebase, Real-Time Tracking Built a real-time restaurant delivery platform with separate Rider and Customer mobile apps alongside a web-based Admin Dashboard. Implemented real-time order tracking, live rider location updates, and order status synchronization using Firebase. Developed the Admin Dashboard for managing orders, riders, restaurants, and delivery operations in real time. Real-Time Future Crypto Trading Bot | Python, FastAPI, PyTorch, FinBERT, React Built an end-to-end NLP and trading simulation system that classifies Bitcoin news sentiment using FinBERT. Implemented FastAPI inference and simulation endpoints, parquet caching, no-look-ahead"
+  },
+  {
+    "source": "zain_profile.txt",
+    "chunk_id": 4,
+    "text": "in news sentiment using FinBERT. Implemented FastAPI inference and simulation endpoints, parquet caching, no-look-ahead backtesting, and BTC-USD signal testing. Created a React dashboard with charts, sentiment insights, and tunable strategy parameters. EDUCATION Bachelor of Science in Software Engineering University of Management and Technology (UMT), Lahore 2022 - Present | Final Semester Relevant Coursework: Data Structures and Algorithms, Database Systems, Web Technologies, Web Engineering, Machine Learning, Natural Language Processing, Deep Learning and Neural Networks, Human Computer Interaction, Software Quality Engineering, Software Project Management. SKILLS Languages: JavaScript,"
+  },
+  {
+    "source": "zain_profile.txt",
+    "chunk_id": 5,
+    "text": "s, Human Computer Interaction, Software Quality Engineering, Software Project Management. SKILLS Languages: JavaScript, TypeScript, Python, HTML, CSS Frontend: React, React Native, Next.js App Router, Vite, Qwik, Ionic React, Tailwind CSS, shadcn/ui, Radix UI, DaisyUI, Framer Motion, Recharts Backend and Data: FastAPI, Express, REST APIs, Firebase Firestore, Firebase Realtime Database, Firebase Admin SDK, SQL Database Management System, Pydantic, Zod, TanStack Query, Axios AI and ML: pandas, NumPy, scikit-learn, yfinance, backtesting Tools: Git, GitHub, Vercel, Google Colab, ESLint, Jest, Vitest, Cypress, JSON-LD, sitemap, robots.txt, technical SEO"
+  }
+]

@@ -1,0 +1,36 @@
+PERSON: Muhammad Zain
+ROLE: Frontend Engineer & Full-Stack Developer
+LOCATION: Lahore, Pakistan
+
+PROFILE
+Muhammad Zain is a frontend-focused Full-Stack Developer and final-semester BS Software Engineering student with experience building production-style web and mobile applications, admin dashboards, SEO-optimized websites, AI-powered tools, and real-time developer-focused platforms. He is strong in React, React Native, Next.js, TypeScript, Tailwind CSS, Firebase, FastAPI, and modern UI engineering, with a focus on clean user experience, performance, accessibility, and scalable architecture.
+
+AREAS OF EXPERTISE
+React, React Native, Next.js, TypeScript, Tailwind CSS, Firebase, FastAPI, REST APIs, SEO Engineering, Admin Dashboards, UI, UI Components, Data Visualization, AI Applications, Real-Time Systems, Frontend Architecture, Web Performance, Testing, Developer Tools.
+
+PROFESSIONAL EXPERIENCE
+Frontend Developer | CodeWingz | Lahore, Pakistan | Jan 2026 - Present
+Develops responsive React and Next.js interfaces for modern production web products. Completed a technical SEO audit of codewingz.com using Katana, httpx, and curl across thousands of internal URLs. Documented high-priority improvements for indexability, metadata, broken links, schema, route exposure, and security headers.
+
+PROJECTS
+AI-Based Expense Tracker System | React Native, Firebase, Real-Time Sync
+Built a real-time, cross-platform mobile app in React Native for tracking, categorizing, and visualizing personal expenses. Integrated Firebase Realtime Database for secure, real-time data sync across devices with offline support. Designed a complete expense management flow covering budgets, categories, and spending analytics dashboards.
+
+Restaurant Delivery Platform | React Native, Firebase, Real-Time Tracking
+Built a real-time restaurant delivery platform with separate Rider and Customer mobile apps alongside a web-based Admin Dashboard. Implemented real-time order tracking, live rider location updates, and order status synchronization using Firebase. Developed the Admin Dashboard for managing orders, riders, restaurants, and delivery operations in real time.
+
+Real-Time Future Crypto Trading Bot | Python, FastAPI, PyTorch, FinBERT, React
+Built an end-to-end NLP and trading simulation system that classifies Bitcoin news sentiment using FinBERT. Implemented FastAPI inference and simulation endpoints, parquet caching, no-look-ahead backtesting, and BTC-USD signal testing. Created a React dashboard with charts, sentiment insights, and tunable strategy parameters.
+
+EDUCATION
+Bachelor of Science in Software Engineering
+University of Management and Technology (UMT), Lahore
+2022 - Present | Final Semester
+Relevant Coursework: Data Structures and Algorithms, Database Systems, Web Technologies, Web Engineering, Machine Learning, Natural Language Processing, Deep Learning and Neural Networks, Human Computer Interaction, Software Quality Engineering, Software Project Management.
+
+SKILLS
+Languages: JavaScript, TypeScript, Python, HTML, CSS
+Frontend: React, React Native, Next.js App Router, Vite, Qwik, Ionic React, Tailwind CSS, shadcn/ui, Radix UI, DaisyUI, Framer Motion, Recharts
+Backend and Data: FastAPI, Express, REST APIs, Firebase Firestore, Firebase Realtime Database, Firebase Admin SDK, SQL Database Management System, Pydantic, Zod, TanStack Query, Axios
+AI and ML: pandas, NumPy, scikit-learn, yfinance, backtesting
+Tools: Git, GitHub, Vercel, Google Colab, ESLint, Jest, Vitest, Cypress, JSON-LD, sitemap, robots.txt, technical SEO

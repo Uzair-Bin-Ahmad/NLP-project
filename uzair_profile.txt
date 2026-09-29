@@ -1,0 +1,37 @@
+PERSON: Uzair Bin Ahmad
+ROLE: Frontend Developer | Software Engineering Student
+LOCATION: Lahore, Pakistan
+
+PROFILE
+Uzair Bin Ahmad is a sixth-semester BS Software Engineering student with hands-on frontend development experience through self-directed learning and project-based practice. He has a strong foundation in HTML, CSS, JavaScript, React, C++, data structures, algorithms, SQL, and Python, with a basic understanding of Django. He is currently studying Machine Learning, Natural Language Processing, and Information Retrieval, and is interested in building practical, responsive web applications.
+
+TECHNICAL SKILLS
+Frontend: HTML5, CSS3, JavaScript, React
+Programming: C++, Python, JavaScript
+Backend and Database: Django (basic understanding), SQL, database fundamentals
+Core Computer Science: OOP, Data Structures and Algorithms, Analysis of Algorithms, Programming Fundamentals
+
+PROJECTS
+Foody Zone | React
+Built a React-based food-themed interface using reusable components and a clean, user-focused page structure.
+
+Dice Game | React
+Created an interactive dice game to practice React components, state handling, events, and dynamic UI updates.
+
+Brand Page and Contact Us | React
+Developed responsive React pages while practicing component-based design, layout structure, and reusable UI patterns.
+
+Dino Game and Snake Game | HTML, CSS, JavaScript
+Built browser-based games to strengthen JavaScript logic, DOM interaction, keyboard events, and game-flow fundamentals.
+
+Spotify UI and Weather Project | HTML, CSS, JavaScript
+Created web interfaces to improve responsive styling, JavaScript interaction, and practical frontend development skills.
+
+EDUCATION
+Bachelor of Science in Software Engineering | 6th Semester
+University of Management and Technology (UMT), Lahore
+Technical Electives: Machine Learning, Natural Language Processing, Information Retrieval
+Relevant Coursework: Programming Fundamentals, Object-Oriented Programming, Data Structures and Algorithms, Analysis of Algorithms, Database Systems, SQL
+
+LEARNING AND STRENGTHS
+Uzair is a self-directed learner with practical project experience in frontend development using online learning and hands-on coding practice. He is comfortable translating basic requirements into responsive web pages and interactive React components. He has a strong academic programming foundation in C++ with a growing interest in AI, ML, NLP, and full-stack development. He is open to Software Engineering and Frontend Development internships and junior opportunities.
